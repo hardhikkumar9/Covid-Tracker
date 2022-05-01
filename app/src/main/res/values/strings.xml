@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Covid Tracker</string>
+
+    <string name="bold" tools:ignore="ResourceCycle">@string/bold</string>
+    <string name="light" tools:ignore="ResourceCycle">@string/light</string>
+    <string name="regular" tools:ignore="ResourceCycle">@string/regular</string>
+</resources>
